@@ -75,6 +75,7 @@ Analyses employee attrition across different workforce categories.
 * Attrition by Job Role
 * Attrition by Overtime
 * Attrition by Job Satisfaction
+  
   <img width="419" height="212" alt="Screenshot 2026-09-28 194250" src="https://github.com/user-attachments/assets/10972971-5398-418a-81c5-326a4289a242" />
 
 
