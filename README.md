@@ -75,6 +75,8 @@ Analyses employee attrition across different workforce categories.
 * Attrition by Job Role
 * Attrition by Overtime
 * Attrition by Job Satisfaction
+  <img width="419" height="212" alt="Screenshot 2026-09-28 194250" src="https://github.com/user-attachments/assets/10972971-5398-418a-81c5-326a4289a242" />
+
 
 ### 3. Compensation Analysis
 
@@ -86,6 +88,7 @@ Analyses employee income and compensation patterns.
 * Average Income by Job Role
 * Average Income by Job Level
 * Income vs Years at Company
+<img width="414" height="237" alt="Screenshot 2026-09-28 194311" src="https://github.com/user-attachments/assets/10fd5ee0-e513-48df-bd45-d554bc207f2a" />
 
 ### 4. Employee Satisfaction
 
@@ -98,6 +101,7 @@ Analyses different employee satisfaction dimensions.
 * Relationship Satisfaction
 * Work-Life Balance
 * Job Involvement
+<img width="415" height="238" alt="Screenshot 2026-09-28 194351" src="https://github.com/user-attachments/assets/745e7334-d788-49f0-b0a4-d2c501551d60" />
 
 ### 5. Workforce Demographics
 
@@ -111,6 +115,8 @@ Provides an overview of employee demographic characteristics.
 * Marital Status
 * Department
 * Job Level
+
+<img width="413" height="239" alt="Screenshot 2026-09-28 194532" src="https://github.com/user-attachments/assets/d0d6e978-74fa-4cc9-81cf-bfcc80054877" />
 
 ## 📐 Key DAX Measures
 
